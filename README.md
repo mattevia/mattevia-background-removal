@@ -33,7 +33,13 @@ A viewer may display transparent pixels on white. Open a result on a dark or col
 4. Select PNG or WebP for transparency; JPG uses a solid background.
 5. Check the reported output dimensions, download, and reopen the saved file.
 
-Fine hair, glass, reflections and translucent objects may lose detail. Changing export format or background color cannot repair a missing part. The current workspace processes one image at a time; it has no batch upload or ZIP export.
+Fine hair, glass, reflections and translucent objects may lose detail. Changing export format or background color cannot repair a missing part.
+
+Eligible verified accounts receive a one-time welcome grant of 5 credits, valid for 7 days. Accounts that have already received a gift do not receive another welcome grant. Each processed image uses 1 credit; used or expired welcome credits do not renew. Credit purchases are currently disabled.
+
+Use the [batch background remover](https://mattevia.com/batch-background-remover) with a signed-in account to select 1–20 images. Your balance must cover every selected image; 5 welcome credits cover up to 5 images, not a full 20-image batch. Download completed results individually or as a ZIP.
+
+Once all originals have uploaded and the tasks have been submitted, processing can continue with the page closed. Reopen batch results from your account's processing history within 24 hours of batch creation. ZIP files are packaged in your browser, so keep the page open while packaging and downloading.
 
 ## Contribute
 
